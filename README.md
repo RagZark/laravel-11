@@ -1,6 +1,7 @@
 
 # Setup Docker Laravel 11 com PHP 8.3
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
+
+Curso de Laravel 11 - Canal Especializa TI
 
 ### Passo a passo
 Clone Repositório
